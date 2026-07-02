@@ -1,0 +1,17 @@
+node_modules/ 
+# Python/Jupyter缓存
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# PowerBI临时缓存
+*.pbix.encrypted
+*.pbit.encrypted
+.TempPowerBI/
+# 系统、环境文件
+.DS_Store
+Thumbs.db
+.env
+.venv/
+# SQL临时备份
+*.bak
+*.log
